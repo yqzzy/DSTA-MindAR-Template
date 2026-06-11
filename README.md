@@ -1,13 +1,13 @@
-# [This is the Project Title] 
-A brief description of what this project does and who it's for.  
+# for real
+BrainHack XR workshop 
 
-# Hi, I'm [Your Name]! 👋 
+# Hi, I'm Yi Qian! 👋 
 
 ## 🚀 About Me 
-Tell us more about yourself! 
+I am so sleepy
  
 ## 🛠 Skills 
-Tell us what skills do you have! 
+I hope I can be a vibecode pro
 
 ## 🔗 Links 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.example.com/) 
